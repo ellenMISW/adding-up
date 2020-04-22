@@ -41,7 +41,7 @@ rl.on('close', () => {
 			value.popu10 +
 			'=>' +
 			value.popu15 +
-			' 変化率:' +
+			' 変化率: ' +
 			value.change
 		);
 	});
